@@ -1,3 +1,5 @@
+This API has been developed using CodeIgniter to send data questinnaire apps. The sql script to create tables has been included in this project.
+
 ###################
 What is CodeIgniter
 ###################
